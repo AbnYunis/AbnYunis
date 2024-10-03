@@ -21,8 +21,8 @@
 ### Connect with Me :
 
 
-<a href="https://www.linkedin.com/in/mohammed-yunis/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Yunis-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-<a href="https://wa.me/qr/U34QG357XE3BF1" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Yunis-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/>
+<a href="www.linkedin.com/in/mohammed-wael" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Yunis-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+<a href="https://wa.me/message/FSHY3QXZLN52F1" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Yunis-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/>
 </a>
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
