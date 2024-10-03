@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Android Studio Code](https://img.shields.io/badge/-Android%20Studio%20Code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
